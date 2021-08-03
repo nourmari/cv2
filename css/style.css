@@ -1,0 +1,42 @@
+h1{
+    color:red;
+    font-style: italic;
+}
+
+img{
+
+    display:block;
+    border: 1px solid black;
+    width: 20%;
+    padding: 10px;
+    box-sizing: border-box;
+
+
+}
+.ronde{
+    border-radius: 40%;
+}
+body{
+    background-color: rgba(10, 231, 102, 0.61);
+}
+ul.a{
+    list-style-type: square;
+    width: 20%;
+
+}
+ul.b
+{
+    list-style-type: circle;
+    border: 1px solid #333; 
+    padding: 20px 22px;
+    width: 30%;
+}
+.waring{
+ border: 10px ridge #f00;
+background-color: #ff0;
+padding: 5rem;
+display: flex;
+float: right;
+height: 10rem;
+align top: ;
+}
